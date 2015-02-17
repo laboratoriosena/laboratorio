@@ -1,0 +1,2 @@
+# laboratorio
+descarga de openStack
